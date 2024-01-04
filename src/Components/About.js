@@ -53,7 +53,7 @@ const About = () => {
               id="resume-link-2"
               target="_blank"
               class="nav-link resume"
-              onClick={() => window.open(pdf)}
+              onClick={() => window.open("https://drive.google.com/file/d/1KRzvSTV18CtNyxchBJWofuRc3yZdQXQo/view?usp=sharing","_blank")}
               download="Thirumalai-E-Resume"
             >
               Resume <FaDownload />
