@@ -100,7 +100,7 @@ const Nav = () => {
               target="_blank"
               class="nav-link resume"
               onClick={() => window.open("https://drive.google.com/file/d/1KRzvSTV18CtNyxchBJWofuRc3yZdQXQo/view?usp=sharing","_blank")}
-              download="Thirumalai-E-Resume"
+              download="Thirumalai-E-Resume.pdf"
             >
               Resume <FaDownload />
             </a>
